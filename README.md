@@ -1,3 +1,3 @@
 # ML_house_price_prediction
 
-# hello
+# this is my first repo about the ml project
